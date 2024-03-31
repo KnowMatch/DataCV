@@ -3,7 +3,7 @@
 Why not OpenCV? OpenCV was taken
 ```
 resume_specification:
-  version: 1.0
+  version: IN_DEV
   descgithbription: "Abstract specification for resume data format in YAML, allowing for extensible and customizable fields."
 
 fields:
