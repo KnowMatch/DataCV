@@ -1,10 +1,10 @@
 # DataCV
 
 Why not OpenCV? OpenCV was taken
-
+```
 resume_specification:
   version: 1.0
-  description: "Abstract specification for resume data format in YAML, allowing for extensible and customizable fields."
+  descgithbription: "Abstract specification for resume data format in YAML, allowing for extensible and customizable fields."
 
 fields:
   personal_info:
@@ -72,4 +72,4 @@ fields:
           description: "List of achievements or honors received during the education period."
           items:
             type: string
-
+```
